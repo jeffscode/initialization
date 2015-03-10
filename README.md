@@ -1,9 +1,9 @@
 # initialization-script
 
 The initialisation script was originally written by Carl Duff for Evo/Lution to allow the user to select the latest
-stable or testing version of lution-ais, download it, extract it and start it. Lution-ais is Carl's install script that is 
-made specifically for Evo/Lution, which uses the Openbox window manager. The initialisation script eliminates the need 
-to download a new iso every time the installer is updated.
+stable or testing version of lution-ais, download it, extract it and start it. The initialisation scripts main purpose is it eliminates the need to download an entire iso every time the installer is updated. 
+
+Lution-ais is Carl's Arch install script that is made specifically for Evo/Lution, which uses the Openbox window manager. 
 
 For CLI/Lution to be able to cleanly use Lution-ais, which had features that require xorg, etc, it requires some minor 
 modifications.
